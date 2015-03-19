@@ -1,0 +1,14 @@
+{
+  "name": "d3examples",
+  "version": "0.0.1",
+  "authors": [
+    "Petr Benes <xbenes@centrum.cz>"
+  ],
+  "description": "d3 examples",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "d3": "3.5.5",
+    "lodash": "3.5.0"
+  }
+}
